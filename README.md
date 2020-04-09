@@ -8,6 +8,9 @@ Hello! My name is Seok Min Hong. I'm currently studying at Hanyang Univ. ERICA s
 * I like to drink sweet coffee
 * I like to code without having bugs
 
+#### Want to know more
+I have a [blog](https://hsmint.github.io) describing more about me.
+
 #### Showing what I've done
 * [Infinite Calculator](https://github.com/hsmint/InfiniteCalculator)
 
