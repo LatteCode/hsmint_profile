@@ -22,3 +22,10 @@ I have a [blog](https://hsmint.github.io) describing more about me.
     * A Bot used for Discord 
     * A school project for Open source Basis in 2019
     * Made out of Python
+
+## My team
+* Name: [Latte Code](https://www.github.com/lattecode)
+* Member: 4 members
+* Characteristic: Love to code while drinking latte
+
+![image](https://avatars2.githubusercontent.com/u/63255913?s=200&v=4)
